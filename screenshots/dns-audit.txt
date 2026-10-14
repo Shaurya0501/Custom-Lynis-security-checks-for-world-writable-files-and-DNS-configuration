@@ -1,0 +1,4 @@
+[2C- Checking DNS configuration[31C
+[4CDNS nameserver[43C [ [1;32mOK[0m ]
+[4CDNS resolution[43C [ [1;32mOK[0m ]
+

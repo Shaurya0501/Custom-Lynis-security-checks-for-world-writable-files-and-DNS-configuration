@@ -1,0 +1,3 @@
+[2C- Checking for world-writable files[24C
+[4CWorld-writable files[37C [ [1;32mOK[0m ]
+
