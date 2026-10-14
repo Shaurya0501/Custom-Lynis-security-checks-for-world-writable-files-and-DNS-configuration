@@ -92,6 +92,3 @@ The checks were validated on Ubuntu 24.04 under WSL.
 - The DNS check verifies a nameserver entry and resolution of one hostname. It does not validate DNS server trustworthiness, encrypted DNS, or resolution of all domains.
 - WSL results may differ from those of a standalone Linux installation.
 
-## License
-
-Add the license required by your project or assignment before publishing.
