@@ -16,16 +16,6 @@ Checks whether `/etc/resolv.conf` contains a nameserver entry and whether the sy
 - Lynis 3.0.9
 - POSIX-compatible shell scripting
 
-## Project Structure
-
-```text
-lynis-custom-audit/
-├── scripts/
-│   └── tests_custom
-├── screenshots/
-├── docs/
-└── README.md
-```
 
 ## Installation
 
